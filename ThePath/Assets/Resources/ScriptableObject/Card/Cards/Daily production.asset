@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64dc021812e43a1419da0ad1b8c5dfa2, type: 3}
+  m_Name: Daily production
+  m_EditorClassIdentifier: 
+  ID: 4
+  cardName: Daily production
+  description: "+1 bl\xE9 si pos\xE9e le matin ou +1 ATK si pos\xE9e le soir"
+  image: {fileID: 21300000, guid: 4c2a6c8f4e42e4c46af63bbf5393b7e2, type: 3}
+  cardType: 3
+  effectValue: 2
+  isUnlocked: 0
+  effectType: 4
+  cardAffected: 3
+  specialBoost: 2

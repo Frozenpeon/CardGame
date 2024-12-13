@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3770428e384089246b7a9ff48762251e, type: 3}
+  m_Name: 10cards
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: 7e4b93d31fc07bb43b0d59434346f514, type: 2}
+  - {fileID: 11400000, guid: 804dd90f3655a224892f8e9ab2e6879c, type: 2}
+  - {fileID: 11400000, guid: 56286c39d218f354e987486c267b46ac, type: 2}
+  - {fileID: 11400000, guid: eef171e97e9b9a04982788f2f5e6e945, type: 2}
+  - {fileID: 11400000, guid: 6779798d88a7ea24aac96982d96d7d74, type: 2}
+  - {fileID: 11400000, guid: 596143bdc4cadcd45b596240cbe53dab, type: 2}
+  - {fileID: 11400000, guid: f7a33fc0a2652db4f90e4ec5b29623da, type: 2}
+  - {fileID: 11400000, guid: d68c28ec3a3ab8a4bb0e9a853733873b, type: 2}
+  - {fileID: 11400000, guid: fbfee6eca47f7d94ca22d93ac6b25822, type: 2}
+  - {fileID: 11400000, guid: 28b7a52af35a0514a80077e08d01a5a8, type: 2}
+  - {fileID: 11400000, guid: 61f026dd165bbe84da3b97091d56a8e0, type: 2}
+  - {fileID: 11400000, guid: 496d108c7e0207946b156e174e781945, type: 2}
+  isInitialized: 1
+  cardDropAmount: 10
+  dropRates: 5000000014000000

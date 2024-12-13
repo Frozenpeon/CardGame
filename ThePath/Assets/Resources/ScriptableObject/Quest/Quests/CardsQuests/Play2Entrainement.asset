@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98d18536ae50d84b8c2f2aec606b24e, type: 3}
+  m_Name: Play2Entrainement
+  m_EditorClassIdentifier: 
+  ID: 2
+  questName: Play2Entrainement
+  description: Play 2 Entrainement cards
+  questType: 2
+  isActive: 1
+  _Progress: 2
+  cardToPlay: {fileID: 11400000, guid: f076c33d0b76fe240aed8e8c3c6532f2, type: 2}
+  numberOfCardToPlay: 2

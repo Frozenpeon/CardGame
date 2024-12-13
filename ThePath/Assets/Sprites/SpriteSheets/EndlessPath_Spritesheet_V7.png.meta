@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 8f4fa6d93caa1da418b771a5d869f7cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2567
+        width: 676
+        height: 1014
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6d5592d93963428e5059d010b2d47
+      internalID: -1116124202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2549
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef65913e8b3784989348e281fdf0a1
+      internalID: -1043931040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_2
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 3250
+        width: 230
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeae302449ea0e4eb58a542a09b3633
+      internalID: 1366295567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_4
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 3307
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1033ce5a34d94d1499ed08163e58cc83
+      internalID: -2084455104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_5
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 1124
+        width: 4324
+        height: 2424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7562b37e103109f4ca122d672a1b8d64
+      internalID: 1287331156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_6
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 3309
+        width: 272
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9062f67ad52ace42b24be311b862793
+      internalID: 1229306214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_7
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3029
+        width: 233
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d88644e4c30f4082075f62cd5a29e
+      internalID: 99025307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_8
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3053
+        width: 225
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9d2347d1bf0343a71c58862834436
+      internalID: -1956124290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_9
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2778
+        width: 220
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cacd03414eb19d4687746094685f89a
+      internalID: -1204722644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_10
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2548
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870824e2dac6b0445b186972dfd84ac2
+      internalID: 33660105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1506
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f58eb6d888f8d4b97db388f3db20a5
+      internalID: -212087135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1504
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce51472450b9b41ab8906a7e0bdae9
+      internalID: -631334463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_13
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1511
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361fbf4a5a897c846bfca2703137ae78
+      internalID: -1844854641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_14
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1511
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2518e8063b6853a4f9c560b22f3c9567
+      internalID: 831302368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 454
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd3331bd65f6243b49c3faa287216b
+      internalID: -2138243978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 454
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416eeaef29e6874f83a629ddba27c6e
+      internalID: -1933699597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_17
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 454
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e2edefe6bca74f999cba3d778f585
+      internalID: -744998940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_18
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 444
+        width: 676
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fff746ea57dad4eb28f7c9b1cb5a7e
+      internalID: -424454281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_20
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 524
+        width: 570
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59942b585ecd9346b677b74df594e90
+      internalID: -263079271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_21
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 369
+        width: 939
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb4e29b79b5114db56a34631a08a56
+      internalID: -946776424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_22
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 45
+        width: 649
+        height: 1012
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de9225fc50e34d4e9efe4da87316689
+      internalID: 462741171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_23
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 45
+        width: 649
+        height: 1012
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3caa344f027c044b89267db0aa2992
+      internalID: 1718301874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_24
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 45
+        width: 649
+        height: 1012
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bd51da3a408747a3cc16c7be0039d
+      internalID: 1576518310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_25
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 110
+        width: 1105
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48c50549e7c38459070e5170a6b168
+      internalID: -1231904003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndlessPath_Spritesheet_V7_3
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 3251
+        width: 230
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a29af727079124a929087ca301e3c9
+      internalID: -877705648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EndlessPath_Spritesheet_V7_0: -1116124202
+      EndlessPath_Spritesheet_V7_1: -1043931040
+      EndlessPath_Spritesheet_V7_10: 33660105
+      EndlessPath_Spritesheet_V7_11: -212087135
+      EndlessPath_Spritesheet_V7_12: -631334463
+      EndlessPath_Spritesheet_V7_13: -1844854641
+      EndlessPath_Spritesheet_V7_14: 831302368
+      EndlessPath_Spritesheet_V7_15: -2138243978
+      EndlessPath_Spritesheet_V7_16: -1933699597
+      EndlessPath_Spritesheet_V7_17: -744998940
+      EndlessPath_Spritesheet_V7_18: -424454281
+      EndlessPath_Spritesheet_V7_19: -524752673
+      EndlessPath_Spritesheet_V7_2: 1366295567
+      EndlessPath_Spritesheet_V7_20: -263079271
+      EndlessPath_Spritesheet_V7_21: -946776424
+      EndlessPath_Spritesheet_V7_22: 462741171
+      EndlessPath_Spritesheet_V7_23: 1718301874
+      EndlessPath_Spritesheet_V7_24: 1576518310
+      EndlessPath_Spritesheet_V7_25: -1231904003
+      EndlessPath_Spritesheet_V7_3: -877705648
+      EndlessPath_Spritesheet_V7_4: -2084455104
+      EndlessPath_Spritesheet_V7_5: 1287331156
+      EndlessPath_Spritesheet_V7_6: 1229306214
+      EndlessPath_Spritesheet_V7_7: 99025307
+      EndlessPath_Spritesheet_V7_8: -1956124290
+      EndlessPath_Spritesheet_V7_9: -1204722644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

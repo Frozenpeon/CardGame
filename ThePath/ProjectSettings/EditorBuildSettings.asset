@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/StartScene.unity
+    guid: d739e632f288d0a4d9e38f5e0c187b78
+  - enabled: 1
+    path: Assets/Scenes/UI/TitleCard.unity
+    guid: 39d7f4aa51722c8458f51d65bab4e59a
+  - enabled: 1
+    path: Assets/Scenes/Global Matteo.unity
+    guid: 8f91b43d43ede4c4095b8a35cf6467a0
+  - enabled: 1
+    path: Assets/Scenes/Collection.unity
+    guid: 6f441db9c7930be44bf2a23dce917126
+  - enabled: 1
+    path: Assets/Scenes/UI/Shop/ShopIntermedaire.unity
+    guid: 3ba5077edde9e1b4a84de0e03961b838
+  - enabled: 1
+    path: Assets/Scenes/UI/Shop/BoostersShop.unity
+    guid: 592d838b7cb401447baf47c0d6f71bf2
+  - enabled: 1
+    path: Assets/Scenes/UI/Shop/Shop.unity
+    guid: 7868d537f37701f44a5965062f5a0e1e
+  - enabled: 1
+    path: Assets/Scenes/UI/Shop/SkinsShop.unity
+    guid: 74fb1d561a137184d933c139b8e0af50
+  - enabled: 1
+    path: Assets/Scenes/FTUE.unity
+    guid: e28896d914a22bd47bb3251b28293572
+  - enabled: 1
+    path: Assets/Scenes/Global Matteo FTUE.unity
+    guid: a1b48daa2811c184d8a93f8c22ff64cd
+  - enabled: 1
+    path: "Assets/Scenes/Cr\xE9dits.unity"
+    guid: b5a5ffa3b1776f5439c46c2ac67ff3a5
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 09b3bac0607a8f545ba38df01537610b, type: 2}

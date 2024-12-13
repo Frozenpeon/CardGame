@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9709f21eea5fb204792855858f46f505, type: 3}
+  m_Name: TestInvestment
+  m_EditorClassIdentifier: 
+  augmentName: wheat investment
+  augmentDescription: bliblou
+  _CardType: 0
+  _InvestmentTime: 1
+  _ImprovementValue: 1
